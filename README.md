@@ -38,11 +38,10 @@ carlos@golmenero -----------------------------
 OS: ...................... macOS, Linux, Windows
 Host: ..................... idealista
 Role: ..................... Developer / Engineer
-Prev: ...................... TU_TRABAJO_ANTERIOR
+Prev: ...................... Indra
 IDE: ......................... IntelliJ / VSCode
 
-Languages.Programming: ..... TUS_LENGUAJES_AQUI
-Languages.Frameworks: ......... TUS_FRAMEWORKS
+Languages.Programming: ..... Java / Kotlin / Other
 Languages.Real: ................ ES, EN, ETC.
 
 Focus: ........................ EN_QUE_TRABAJAS
@@ -53,11 +52,11 @@ Email: .......................... cgomezcolmenero@gmail.com
 Web: ............................ carlhub.com
 Twitter: ......................... @golmenero
 LinkedIn: ........................ https://www.linkedin.com/in/carlos-gomez-colmenero
-GitHub: ........................... TU_USUARIO
+GitHub: ........................... https://github.com/golmenero
 
 - GitHub Stats -------------------------------------
-Repos: ... | Stars: ... | Followers: ...
-Location: ................. TU_CIUDAD, PAIS
+Repos: ... ratelog.org
+Location: ................. Oviedo, Spain
 ```
 
 </td>
