@@ -41,11 +41,11 @@ Role: ..................... Developer / Engineer
 Prev: ...................... Indra
 IDE: ......................... IntelliJ / VSCode
 
-Languages.Programming: ..... Java / Kotlin / Other
-Languages.Real: ................ ES, EN, ETC.
+Languages.Programming: ..... Java / Kotlin / Others
+Languages.Real: ................ ES, EN
 
-Focus: ........................ EN_QUE_TRABAJAS
-Shipped: .................. TUS_LOGROS_O_PROYECTOS
+Focus: ........................ Full-Stack Development
+Shipped: .................. Online Booking Service, Sign Online Service
 
 - Contact -----------------------------------------
 Email: .......................... cgomezcolmenero@gmail.com
